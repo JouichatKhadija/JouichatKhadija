@@ -78,12 +78,13 @@ I enjoy experimenting with emerging technologies, solving technical challenges, 
 
 Some of the areas I have explored through academic, personal, and engineering projects:
 
+- **AI-Powered Applications:** Exploring multi-agent architectures and intelligent SaaS solutions.
 - **Agentic GraphRAG:** Combining vector retrieval, knowledge graphs, and reinforcement learning for intelligent scientific question answering.
+- **Computer Vision:** Developing image retrieval and visual similarity approaches.
 - **Generative AI & Blockchain:** Exploring RAG architectures applied to smart contracts and transaction security.
 - **Deep Learning:** Implementing neural network architectures, including MLPs and CNNs.
-- **Computer Vision:** Developing image retrieval and visual similarity approaches.
+- **Machine Learning:** Credit Card Fraud Detection: Comparing Logistic Regression, Random Forest and Isolation Forest on a highly imbalanced dataset.
 - **Big Data Engineering:** Building data pipelines using technologies such as Spark, Airflow, MinIO, and PostgreSQL.
-- **AI-Powered Applications:** Exploring multi-agent architectures and intelligent SaaS solutions.
 
 ### 📜 Certifications
 
