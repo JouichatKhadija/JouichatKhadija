@@ -12,7 +12,7 @@
 
 ### 👩‍💻 About Me
 
-I am an Artificial Intelligence & Data Engineering engineering student at **EMSI Casablanca, Morocco**, focused on developing intelligent systems and AI-powered applications.
+I am an Artificial Intelligence & Data Engineering student at **EMSI Casablanca, Morocco**, focused on developing intelligent systems and AI-powered applications.
 
 My primary interests lie in **Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, Large Language Models (LLMs), and Autonomous AI Agents**.
 
@@ -70,7 +70,7 @@ I enjoy experimenting with emerging technologies, solving technical challenges, 
 **DevOps, Tools & Platforms**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman&theme=light" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode&theme=light" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black" />
 </p>
 
@@ -89,16 +89,6 @@ Some of the areas I have explored through academic, personal, and engineering pr
 
 - Oracle AI Agent Studio for Fusion Applications Foundations Associate
 
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JouichatKhadija&show_icons=true&theme=transparent&hide_border=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JouichatKhadija&layout=compact&theme=transparent&hide_border=true" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=JouichatKhadija&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
-</p>
 
 ### 🤝 Connect With Me
 
