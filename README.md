@@ -78,7 +78,7 @@ I enjoy experimenting with emerging technologies, solving technical challenges, 
 
 Some of the areas I have explored through academic, personal, and engineering projects:
 
-🤖 Generative AI & Intelligent Systems
+🤖 **Generative AI & Intelligent Systems**
 - MaintiDoc -- Multimodal AI Maintenance Assistant: Developing a
   multimodal, agentic maintenance assistant using Qwen2.5-VL, RAG,
   LangGraph, MCP, and human-in-the-loop approval.
@@ -91,31 +91,28 @@ Some of the areas I have explored through academic, personal, and engineering pr
 - Psychology-Based AI Marketing SaaS: Developing an AI-powered
   marketing solution combining psychological insights, GraphRAG, and
   multi-agent orchestration.
-🧠 Machine Learning & Deep Learning
+  
+🧠 **Machine Learning & Deep Learning**
 - Credit Card Fraud Detection: Applying machine learning
   techniques to highly imbalanced financial transaction data and
   evaluating models beyond accuracy.
 - Deep Learning Architectures: Implementing and experimenting with
   MLPs, CNNs, neural networks, and deep learning models using PyTorch.
-👁️ Computer Vision
+  
+👁️ **Computer Vision**
 - Image Search by Visual Similarity: Developing an image retrieval
   system using color and shape descriptors to compare and retrieve
   visually similar images.
-💻 Intelligent Application Development
+  
+💻 **Intelligent Application Development**
 - Sentiment Analysis Application: Developing an intelligent
   application focused on sentiment analysis, software engineering
   practices, testing, version control, and deployment workflows.
-📊 Data Engineering & Big Data
+  
+📊 **Data Engineering & Big Data**
 - AI News Data Pipeline: Building a data pipeline using Apache
   Airflow, MinIO, PostgreSQL, FastAPI, and Docker.
 
-- **AI-Powered Applications:** Exploring multi-agent architectures and intelligent SaaS solutions.
-- **Agentic GraphRAG:** Combining vector retrieval, knowledge graphs, and reinforcement learning for intelligent scientific question answering.
-- **Computer Vision:** Developing image retrieval and visual similarity approaches.
-- **Generative AI & Blockchain:** Exploring RAG architectures applied to smart contracts and transaction security.
-- **Deep Learning:** Implementing neural network architectures, including MLPs and CNNs.
-- **Machine Learning:** Credit Card Fraud Detection: Comparing Logistic Regression, Random Forest and Isolation Forest on a highly imbalanced dataset.
-- **Big Data Engineering:** Building data pipelines using technologies such as Spark, Airflow, MinIO, and PostgreSQL.
 
 ### 📜 Certifications
 
