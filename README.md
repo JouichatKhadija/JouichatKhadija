@@ -78,6 +78,37 @@ I enjoy experimenting with emerging technologies, solving technical challenges, 
 
 Some of the areas I have explored through academic, personal, and engineering projects:
 
+🤖 Generative AI & Intelligent Systems
+- MaintiDoc -- Multimodal AI Maintenance Assistant: Developing a
+  multimodal, agentic maintenance assistant using Qwen2.5-VL, RAG,
+  LangGraph, MCP, and human-in-the-loop approval.
+- Agentic GraphRAG -- Scientific Question Answering: Building an
+  intelligent retrieval system combining vector search, knowledge
+  graphs, and reinforcement learning.
+- Blockchain RAG -- Smart Contracts & Transaction Security:
+  Exploring RAG architectures for retrieving and analyzing blockchain
+  and smart contract knowledge.
+- Psychology-Based AI Marketing SaaS: Developing an AI-powered
+  marketing solution combining psychological insights, GraphRAG, and
+  multi-agent orchestration.
+🧠 Machine Learning & Deep Learning
+- Credit Card Fraud Detection: Applying machine learning
+  techniques to highly imbalanced financial transaction data and
+  evaluating models beyond accuracy.
+- Deep Learning Architectures: Implementing and experimenting with
+  MLPs, CNNs, neural networks, and deep learning models using PyTorch.
+👁️ Computer Vision
+- Image Search by Visual Similarity: Developing an image retrieval
+  system using color and shape descriptors to compare and retrieve
+  visually similar images.
+💻 Intelligent Application Development
+- Sentiment Analysis Application: Developing an intelligent
+  application focused on sentiment analysis, software engineering
+  practices, testing, version control, and deployment workflows.
+📊 Data Engineering & Big Data
+- AI News Data Pipeline: Building a data pipeline using Apache
+  Airflow, MinIO, PostgreSQL, FastAPI, and Docker.
+
 - **AI-Powered Applications:** Exploring multi-agent architectures and intelligent SaaS solutions.
 - **Agentic GraphRAG:** Combining vector retrieval, knowledge graphs, and reinforcement learning for intelligent scientific question answering.
 - **Computer Vision:** Developing image retrieval and visual similarity approaches.
@@ -89,6 +120,11 @@ Some of the areas I have explored through academic, personal, and engineering pr
 ### 📜 Certifications
 
 - Oracle AI Agent Studio for Fusion Applications Foundations Associate
+- Introduction to Big Data
+- Agile Project Management
+- L'Oréal Brandstorm Certificate
+- Organisation of a Live Q&A with the NASA Astronaut and Aerospace Engineer
+- ENACTUS Active Membership
 
 
 ### 🤝 Connect With Me
