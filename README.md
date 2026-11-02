@@ -59,6 +59,7 @@ I enjoy experimenting with emerging technologies, solving technical challenges, 
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black" />
   <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat&logo=minio&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+    <img src="https://www.google.com/imgres?q=plotly&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F8%2F8a%2FPlotly-logo.png%3Futm_source%3Den.wikipedia.org%26utm_campaign%3Dindex%26utm_content%3Doriginal&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPlotly&docid=5YCcidvLDTOu8M&tbnid=Amymi2H4BenB9M&vet=12ahUKEwjExMLmp-qXAxU5Z_EDHUh1AEcQnPAOegQINhAA..i&w=1250&h=417&hcb=2&ved=2ahUKEwjExMLmp-qXAxU5Z_EDHUh1AEcQnPAOegQINhAA" />
 </p>
 
 **Backend & Frontend Development**
