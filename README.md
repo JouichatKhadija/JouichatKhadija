@@ -72,7 +72,7 @@ I enjoy experimenting with emerging technologies, solving technical challenges, 
 **MLOps, DevOps, Tools & Platforms**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,anaconda,spyderide&theme=light" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,anaconda&theme=light" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" />
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Spyder-FF0000?style=flat&logo=spyderide&logoColor=white" />
