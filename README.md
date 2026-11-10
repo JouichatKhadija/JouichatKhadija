@@ -90,10 +90,10 @@ Some of the areas I have explored through academic, personal, and engineering pr
 - Agentic GraphRAG -- Scientific Question Answering: Building an
   intelligent retrieval system combining vector search, knowledge
   graphs, and reinforcement learning.
-- Ket-Mind: Scientifically Psychology-Based Marketing Strategy: Developing an AI-powered SaaS
+- Ket-Mind -- Scientifically Psychology-Based Marketing Strategy: Developing an AI-powered SaaS
   marketing solution combining psychological insights, GraphRAG, and
   multi-agent orchestration.
-- EMMA — Multilingual AI Voice Assistant: Developed a multilingual AI voice assistant for the Moroccan hospitality sector, implemented a RAG-based conversational system supporting French, English, Arabic, and Darija, integrated voice interaction, knowledge retrieval, and human escalation.
+- EMMA -- Multilingual AI Voice Assistant: Developed a multilingual AI voice assistant for the Moroccan hospitality sector, implemented a RAG-based conversational system supporting French, English, Arabic, and Darija, integrated voice interaction, knowledge retrieval, and human escalation.
 - Blockchain RAG -- Smart Contracts & Transaction Security:
   Exploring RAG architectures for retrieving and analyzing blockchain
   and smart contract knowledge.
