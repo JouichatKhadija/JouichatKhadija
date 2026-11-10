@@ -65,7 +65,7 @@ I enjoy experimenting with emerging technologies, solving technical challenges, 
 **Backend & Frontend Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,dotnet,html,css,js,react,reactnative&theme=light" />
+  <img src="https://skillicons.dev/icons?i=fastapi,dotnet,html,css,js,react,reactnative,streamlit&theme=light" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
 </p>
 
@@ -77,7 +77,6 @@ I enjoy experimenting with emerging technologies, solving technical challenges, 
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Spyder-FF0000?style=flat&logo=spyderide&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black" />
-  <img src="https://skillicons.dev/icons?i=jupyter&theme=light" />
 </p>
 
 ### 🚀 Projects & Technical Experience
