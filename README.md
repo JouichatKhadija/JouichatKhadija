@@ -40,7 +40,6 @@ I enjoy experimenting with emerging technologies, solving technical challenges, 
   <img src="https://skillicons.dev/icons?i=python,pytorch,opencv&theme=light" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/VLM-Vision--Language%20Models-8A2BE2?style=flat" />
 </p>
 
 **Generative AI & Intelligent Systems**
@@ -76,10 +75,10 @@ I enjoy experimenting with emerging technologies, solving technical challenges, 
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode&theme=light" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" />
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Spyder-FF0000?style=flat&logo=spyderide&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black" />
 </p>
 
