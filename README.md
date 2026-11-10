@@ -66,6 +66,7 @@ I enjoy experimenting with emerging technologies, solving technical challenges, 
 
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,dotnet,html,css,js,react,reactnative,streamlit&theme=light" />
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
 </p>
 
 **MLOps, DevOps, Tools & Platforms**
