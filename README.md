@@ -64,8 +64,8 @@ I enjoy experimenting with emerging technologies, solving technical challenges, 
 
 **Backend & Frontend Development**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,dotnet,html,css,js,react,reactnative&theme=light" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
 </p>
 
