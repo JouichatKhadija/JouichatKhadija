@@ -32,12 +32,37 @@ I enjoy experimenting with emerging technologies, solving technical challenges, 
 
 ### 🛠️ Tech Stack
 
+### 🛠️ Tech Stack
+
 **AI, Machine Learning & Deep Learning**
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,opencv&theme=light" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/VLM-Vision--Language_Models-8A2BE2?style=flat" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/VLM-Vision--Language%20Models-8A2BE2?style=flat" />
+</p>
+
+**Generative AI & Intelligent Systems**
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-00599C?style=flat&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sentence%20Transformers-4B32C3?style=flat" />
+</p>
+
+**Data Engineering, Big Data & Analytics**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=light" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black" />
+  <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat&logo=minio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" />
 </p>
 
 **Backend & Frontend Development**
@@ -47,14 +72,15 @@ I enjoy experimenting with emerging technologies, solving technical challenges, 
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
 </p>
 
-**MLOps, DevOps & Tools**
+**MLOps, DevOps, Tools & Platforms**
 
 <p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode&theme=light" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat" />
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,anaconda&theme=light" />
-  <img src="https://img.shields.io/badge/Spyder-FF0000?style=flat" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spyder-FF0000?style=flat&logo=spyderide&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black" />
 </p>
 
 ### 🚀 Projects & Technical Experience
