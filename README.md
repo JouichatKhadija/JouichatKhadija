@@ -93,7 +93,7 @@ Some of the areas I have explored through academic, personal, and engineering pr
 - Blockchain RAG -- Smart Contracts & Transaction Security:
   Exploring RAG architectures for retrieving and analyzing blockchain
   and smart contract knowledge.
-- Psychology-Based AI Marketing SaaS: Developing an AI-powered
+- Ket-Mind: Scientifically Psychology-Based Marketing Strategy: Developing an AI-powered SaaS
   marketing solution combining psychological insights, GraphRAG, and
   multi-agent orchestration.
   
