@@ -14,7 +14,7 @@
 
 I am an Artificial Intelligence & Data Engineering student at **EMSI Casablanca, Morocco**, focused on developing intelligent systems and AI-powered applications.
 
-My primary interests lie in **Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, Large Language Models (LLMs), and Autonomous AI Agents**.
+My primary interests lie in **Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, Large Language Models (LLMs), Vision-Language Model (VLMs), and Autonomous AI Agents**.
 
 I also explore Data Engineering, Big Data, Computer Vision, and software technologies to build complete, practical solutions.
 
