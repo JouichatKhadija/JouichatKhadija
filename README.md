@@ -24,11 +24,11 @@ I enjoy experimenting with emerging technologies, solving technical challenges, 
 
 - Artificial Intelligence & Machine Learning
 - Deep Learning & Neural Networks
-- Generative AI, LLMs & AI Agents
+- Generative AI, LLMs & VLMs, AI Agents
 - Retrieval-Augmented Generation (RAG) & GraphRAG
 - Computer Vision & Image Processing
 - Data Engineering & Big Data
-- MLOps & AI Deployment
+- MLOps & DevOps
 
 ### 🛠️ Tech Stack
 
