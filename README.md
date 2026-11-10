@@ -37,7 +37,7 @@ I enjoy experimenting with emerging technologies, solving technical challenges, 
 **AI, Machine Learning & Deep Learning**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,scikitlearn,Hugging%20Face&theme=light" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" />
 </p>
