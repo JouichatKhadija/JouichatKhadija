@@ -80,7 +80,7 @@ Some of the areas I have explored through academic, personal, and engineering pr
 
 🤖 **Generative AI & Intelligent Systems**
 - MaintiDoc -- Multimodal AI Maintenance Assistant: Developing a
-  multimodal, agentic maintenance assistant using Qwen2.5-VL, RAG,
+  multimodal, agentic maintenance assistant using Qwen3-VL, RAG,
   LangGraph, MCP, and human-in-the-loop approval.
 - Agentic GraphRAG -- Scientific Question Answering: Building an
   intelligent retrieval system combining vector search, knowledge
