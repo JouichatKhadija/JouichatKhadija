@@ -98,8 +98,6 @@ Some of the areas I have explored through academic, personal, and engineering pr
   Exploring RAG architectures for retrieving and analyzing blockchain
   and smart contract knowledge.
   
-**Technologies:** Python, FastAPI, LangChain, Gemini, PostgreSQL, pgvector, Vapi, Deepgram, ElevenLabs, Docker.
-  
 🧠 **Machine Learning & Deep Learning**
 - Credit Card Fraud Detection: Applying machine learning
   techniques to highly imbalanced financial transaction data and
